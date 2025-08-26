@@ -1,0 +1,22 @@
+{
+  "name": "antd_dialog",
+  "version": "1.0.5",
+  "description": "一款简单易用，轻量级零侵入，可高度自定义的弹框",
+  "main": "Index.ets",
+  "author": {
+    "name": "fishzixi",
+    "email": "3557315624@qq.com"
+  },
+  "keywords": [
+    "dialog",
+    "alert",
+    "ui",
+    "弹窗",
+    "自定义"
+  ],
+  "license": "Apache-2.0",
+  "packageType": "InterfaceHar",
+  "dependencies": {
+  },
+  "repository": "https://github.com/fishzixi/antd_dialog"
+}
