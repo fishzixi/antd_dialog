@@ -1,6 +1,6 @@
 {
   "name": "antd_dialog",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "一款简单易用，轻量级零侵入，可高度自定义的弹框",
   "main": "Index.ets",
   "author": {
